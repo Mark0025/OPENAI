@@ -1,5 +1,11 @@
 # ChatGPT plugins quickstart
 
+## About
+- **What it is:** OpenAI's ChatGPT plugins quickstart (a todo-list plugin), unchanged.
+- **Business:** learning
+- **Status:** inactive since 2023-12
+- **Source:** agent research 2026-11-03, checked by Mark
+
 Get a todo list ChatGPT plugin up and running in under 5 minutes using Python. This plugin is designed to work in conjunction with the [ChatGPT plugins documentation](https://platform.openai.com/docs/plugins). If you do not already have plugin developer access, please [join the waitlist](https://openai.com/waitlist/plugins).
 
 ## Setup locally
